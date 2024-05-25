@@ -1,0 +1,13 @@
+project-root/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── yourpackage/
+│                   └── VersionManagementSystem.java
+├── lib/
+├── resources/
+├── build/
+├── .gitignore
+├── README.md
+└── pom.xml or build.gradle (depending on your build tool)
